@@ -1,0 +1,5 @@
+C:\BoulderWhiteRock\BoulderWhiteRock\BoulderWhiteRock\bin\BoulderWhiteRock.dll
+C:\BoulderWhiteRock\BoulderWhiteRock\BoulderWhiteRock\bin\BoulderWhiteRock.pdb
+C:\BoulderWhiteRock\BoulderWhiteRock\BoulderWhiteRock\obj\Debug\BoulderWhiteRock.dll
+C:\BoulderWhiteRock\BoulderWhiteRock\BoulderWhiteRock\obj\Debug\BoulderWhiteRock.pdb
+C:\BoulderWhiteRock\BoulderWhiteRock\BoulderWhiteRock\obj\Debug\BoulderWhiteRock.csprojResolveAssemblyReference.cache
